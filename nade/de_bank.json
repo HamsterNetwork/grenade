@@ -1,849 +1,2680 @@
 [
-      {
-        "name": ["Box", "Car"],
-        "description": "center",
-        "weapon": "weapon_hegrenade",
-        "position": [-551.32421875, -255.59642028809, 147.95771789551],
-        "viewangles": [-3.5706372261047, -5.4862790107727],
-        "grenade": {
-          "run": 9
-        }
-      },
-      {
-        "name": ["Pillar", "Car"],
-        "weapon": "weapon_hegrenade",
-        "position": [-25.877429962158, -814.41888427734, 190.46044921875],
-        "viewangles": [-0.57593309879303, 22.3173828125],
-        "duck": true
-      },
-      {
-        "name": ["Truck", "Pillar"],
-        "weapon": "weapon_molotov",
-        "position": [970.89465332031, -388.31427001953, -27.260366439819],
-        "viewangles": [-32.156517028809, -156.95921325684],
-        "duck": true
-      },
-      {
-        "name": ["here", "S.W.A.T"],
-        "description": "LEFT",
-        "weapon": "weapon_molotov",
-        "position": [-520.65985107422, -584.25836181641, 188.03125],
-        "viewangles": [8.657603263855, 2.8674876689911],
-        "grenade": {
-          "run": 20,
-          "jump": true
-        }
-      },
-      {
-        "name": ["Left-Car", "Left-Car"],
-        "weapon": "weapon_molotov",
-        "position": [-1062.8155517578, -344.76284790039, 30.839721679688],
-        "viewangles": [4.2535920143127, 12.537452697754],
-        "grenade": {
-          "fov": 5.12,
-          "run": 26,
-          "jump": true
-        }
-      },
-      {
-        "name": ["BOMB", "BOMB"],
-        "weapon": "weapon_molotov",
-        "position": [1107.7540283203, -333.48056030273, -26.993045806885],
-        "viewangles": [-9.6557970046997, 177.19026184082],
-        "grenade": {
-          "fov": 5.12,
-          "run": 21
-        }
-      },
-      {
-        "name": ["Car", "Car"],
-        "weapon": "weapon_smokegrenade",
-        "position": [1601.9598388672, -482.61636352539, -28.446376800537],
-        "viewangles": [-1.93601155, 148.728]
-      },
-      {
-        "name": ["FBI car", "FBI car"],
-        "weapon": "weapon_molotov",
-        "position": [-410.77087402344, -924.93975830078, 262.20211791992],
-        "viewangles": [12.8424616, 11.9762936],
-        "grenade": {
-          "run": 19,
-          "jump": true
-        }
-      },
-      {
-        "name": ["trash", "trash"],
-        "weapon": "weapon_molotov",
-        "position": [1112.7438964844, -1459.9997558594, -15.224891662598],
-        "viewangles": [-12.9076395, 18.9492188]
-      },
-      {
-        "name": ["FBI-Car", "FBI-Car"],
-        "weapon": "weapon_molotov",
-        "position": [311.95855712891, 681.62060546875, 60.034477233887],
-        "viewangles": [-8.361313, -42.9121323],
-        "grenade": {
-          "run": 8
-        }
-      },
-      {
-        "name": ["Fbi car", "Fbi car"],
-        "weapon": "weapon_molotov",
-        "position": [861.53833007813, -711.91387939453, -28.989002227783],
-        "viewangles": [-19.94764, 44.7251]
-      },
-      {
-        "name": ["FBI-Car", "FBI-Car"],
-        "weapon": "weapon_molotov",
-        "position": [-101.96874237061, -576.77551269531, 189.03125],
-        "viewangles": [-9.593823, 1.86533523],
-        "grenade": {
-          "run": 3
-        }
-      },
-      {
-        "name": ["Unnamed", "Car"],
-        "weapon": "weapon_smokegrenade",
-        "position": [1585.0660400391, -424.89324951172, -29.6171875],
-        "viewangles": [-4.3288946151733, 154.5315246582],
-        "grenade": {
-          "fov": 5.12
-        }
-      },
-      {
-        "name": ["Unnamed", "Car"],
-        "weapon": "weapon_smokegrenade",
-        "position": [1585.0660400391, -424.89324951172, -29.6171875],
-        "viewangles": [-21.508676528931, 171.33535766602],
-        "grenade": {
-          "strength": 0.5,
-          "fov": 5.12
-        }
-      },
-      {
-        "name": ["Unnamed", "Car"],
-        "weapon": "weapon_smokegrenade",
-        "position": [1579.0267333984, -485.53106689453, -29.057689666748],
-        "viewangles": [-58.125507354736, 160.02674865723],
-        "grenade": {
-          "fov": 5.12
-        }
-      },
-      {
-        "name": ["Unnamed", "Car"],
-        "weapon": "weapon_smokegrenade",
-        "position": [1579.0267333984, -485.53106689453, -29.057689666748],
-        "viewangles": [-21.132444381714, 133.69198608398],
-        "grenade": {
-          "fov": 5.12
-        }
-      },
-      {
-        "name": ["Unnamed", "Car"],
-        "weapon": "weapon_smokegrenade",
-        "position": [1901.6671142578, -1203.96875, -31.96875],
-        "viewangles": [-18.499025344849, 138.33213806152],
-        "grenade": {
-          "fov": 5.12
-        },
-        "duck": true
-      },
-      {
-        "name": ["Unnamed", "Car"],
-        "description": "Right",
-        "weapon": "weapon_smokegrenade",
-        "position": [1579.0267333984, -485.53106689453, -29.057689666748],
-        "viewangles": [-2.4478151798248, 137.32878112793],
-        "grenade": {
-          "fov": 5.12
-        }
-      },
-      {
-        "name": ["Unnamed", "FBI-CAR"],
-        "weapon": "weapon_molotov",
-        "position": [367.83340454102, -1930.6728515625, -28.846643447876],
-        "viewangles": [-22.09460067749, 51.7692527771],
-        "grenade": {
-          "fov": 5.12,
-          "run": 23
-        }
-      },
-      {
-        "name": ["Unnamed", "FBI CAR"],
-        "weapon": "weapon_hegrenade",
-        "position": [308.11187744141, -234.55499267578, -24.96875],
-        "viewangles": [-16.042673110962, -11.148731231689],
-        "grenade": {
-          "fov": 5.12,
-          "run": 1
-        }
-      },
-      {
-        "name": ["Unnamed", "FBI CAR"],
-        "weapon": "weapon_molotov",
-        "position": [449.98980712891, -268.54888916016, -24.96875],
-        "viewangles": [-19.599340438843, -11.270133972168],
-        "grenade": {
-          "fov": 5.12,
-          "run": 1
-        },
-        "duck": true
-      },
-      {
-        "name": ["Unnamed", "Wall"],
-        "weapon": "weapon_hegrenade",
-        "position": [1722.7242431641, -674.3759765625, -31.58286857605],
-        "viewangles": [-0.91173201799393, -176.54364013672],
-        "grenade": {
-          "run": 39,
-          "jump": true
-        }
-      },
-      {
-        "name": ["Unnamed", "Cond"],
-        "weapon": "weapon_hegrenade",
-        "position": [1722.7165527344, -674.36450195313, -31.582767486572],
-        "viewangles": [-2.9181432723999, 176.61483764648],
-        "grenade": {
-          "run": 42,
-          "jump": true
-        }
-      },
-      {
-        "name": ["Unnamed", "Wall"],
-        "weapon": "weapon_molotov",
-        "position": [1641.0339355469, -700.14587402344, -30.14479637146],
-        "viewangles": [-3.4196841716766, -177.75727844238],
-        "grenade": {
-          "run": 6,
-          "jump": true
-        }
-      },
-      {
-        "name": ["Unnamed", "Cond"],
-        "weapon": "weapon_molotov",
-        "position": [1641.0756835938, -700.15008544922, -30.145618438721],
-        "viewangles": [-6.6800494194031, 176.05139160156],
-        "grenade": {
-          "run": 6,
-          "jump": true
-        }
-      },
-      {
-        "name": ["Unnamed", "Cond Right"],
-        "weapon": "weapon_molotov",
-        "position": [1618.6053466797, -776.40991210938, -29.561496734619],
-        "viewangles": [-5.5515532493591, 166.13032531738],
-        "grenade": {
-          "run": 35,
-          "jump": true
-        }
-      },
-      {
-        "name": ["Unnamed", "Boost"],
-        "weapon": "weapon_molotov",
-        "position": [1440.0684814453, -613.07550048828, -27.265689849854],
-        "viewangles": [-3.8934900760651, -179.61212158203],
-        "grenade": {
-          "run": 26,
-          "jump": true
-        }
-      },
-      {
-        "name": ["Unnamed", "Cond"],
-        "description": "Right",
-        "weapon": "weapon_molotov",
-        "position": [1049.8160400391, -283.56884765625, -27.193143844604],
-        "viewangles": [0.71845930814743, -169.91876220703],
-        "grenade": {
-          "run": 16,
-          "jump": true
-        }
-      },
-      {
-        "name": ["Unnamed", "Boost"],
-        "weapon": "weapon_molotov",
-        "position": [1048.1350097656, -426.08792114258, -27.042402267456],
-        "viewangles": [-0.91174054145813, -173.68078613281],
-        "grenade": {
-          "run": 10,
-          "jump": true
-        }
-      },
-      {
-        "name": ["Unnamed", "BOMB"],
-        "weapon": "weapon_hegrenade",
-        "position": [278.69924926758, 430.22671508789, -25.158756256104],
-        "viewangles": [-8.0850219726563, -136.25508117676],
-        "grenade": {
-          "run": 2,
-          "recovery_yaw": -90
-        }
-      },
-      {
-        "name": ["Unnamed", "Car"],
-        "weapon": "weapon_molotov",
-        "position": [-1064.9298095703, -209.30592346191, -31.96875],
-        "viewangles": [0.89645892381668, -3.3068311214447],
-        "grenade": {
-          "run": 20,
-          "jump": true
-        }
-      },
-      {
-        "name": ["Unnamed", "Truck"],
-        "weapon": "weapon_molotov",
-        "position": [-1064.8021240234, -209.39581298828, -31.96875],
-        "viewangles": [-2.489342212677, -10.705471038818],
-        "grenade": {
-          "run": 33,
-          "jump": true
-        }
-      },
-      {
-        "name": ["Unnamed", "BOMB"],
-        "weapon": "weapon_molotov",
-        "position": [-631.56268310547, -211.18035888672, -24.96875],
-        "viewangles": [-4.8906755447388, -64.966957092285],
-        "grenade": {
-          "run": 1
-        }
-      },
-      {
-        "name": ["Window(CTRL)", "Window"],
-        "weapon": "weapon_molotov",
-        "position": [-551.97479248047, -158.02816772461, -23.96875],
-        "viewangles": [-13.217739105225, -49.340637207031],
-        "duck": true
-      },
-      {
-        "name": ["Unnamed", "push"],
-        "weapon": "weapon_molotov",
-        "position": [-551.96148681641, -158.03424072266, -23.96875],
-        "viewangles": [10.762377738953, -50.000869750977]
-      },
-      {
-        "name": ["Back-FBI Car", "BACK FBI"],
-        "weapon": "weapon_molotov",
-        "position": [801.08715820313, -340.25067138672, -29.190570831299],
-        "viewangles": [-12.136857032776, 6.5259518623352]
-      },
-      {
-        "name": ["boost", "boost"],
-        "weapon": "weapon_molotov",
-        "position": [443.31671142578, -1872.5092773438, -27.214218139648],
-        "viewangles": [1.409851, 54.157238],
-        "grenade": {
-          "run": 9,
-          "jump": true
-        }
-      },
-      {
-        "name": ["Car66", "Car"],
-        "weapon": "weapon_molotov",
-        "position": [-111.53073120117, -631.45483398438, 211.03125],
-        "viewangles": [0.8683753, 12.8904657]
-      },
-      {
-        "name": ["Bank", "Bank"],
-        "weapon": "weapon_molotov",
-        "position": [1023.8213500977, -456.84936523438, -26.122528076172],
-        "viewangles": [-7.00581264, 172.8958],
-        "grenade": {
-          "run": 22
-        }
-      },
-      {
-        "name": ["Car", "Car"],
-        "weapon": "weapon_molotov",
-        "position": [1618.4541015625, -541.07885742188, -28.720031738281],
-        "viewangles": [-22.8850441, 142.025772]
-      },
-      {
-        "name": ["Trash Molly", "Trash Molly"],
-        "description": "SLOW \/ UNSAFE",
-        "weapon": "weapon_molotov",
-        "position": [1338.646484375, -1417.5797119141, 32.713348388672],
-        "viewangles": [-12.37986, 32.2520981],
-        "grenade": {
-          "strength": 0.5
-        }
-      },
-      {
-        "name": ["White1", "Left Car"],
-        "weapon": "weapon_molotov",
-        "position": [-189.88612365723, -926.52178955078, 188.03125],
-        "viewangles": [-5.9076542854309, 40.848983764648],
-        "grenade": {
-          "run": 1
-        }
-      },
-      {
-        "name": ["Unnamed", "Cond"],
-        "description": "Right",
-        "weapon": "weapon_molotov",
-        "position": [618.66076660156, 840.71240234375, -30.764554977417],
-        "viewangles": [-31.724004745483, -134.14782714844],
-        "grenade": {
-          "run": 11
-        }
-      },
-      {
-        "name": ["Unnamed", "Boost"],
-        "weapon": "weapon_molotov",
-        "position": [521.88171386719, 781.93444824219, 13.361572265625],
-        "viewangles": [-32.934070587158, -130.0558013916],
-        "grenade": {
-          "run": 16
-        }
-      },
-      {
-        "name": ["Unnamed", "Cond"],
-        "weapon": "weapon_hegrenade",
-        "position": [834.68280029297, 781.25329589844, -30.710266113281],
-        "viewangles": [0.52796649932861, -142.79399108887],
-        "grenade": {
-          "run": 25,
-          "jump": true
-        }
-      },
-      {
-        "name": ["Unnamed", "Cond"],
-        "weapon": "weapon_hegrenade",
-        "position": [522.05889892578, 778.50134277344, 13.302621841431],
-        "viewangles": [-27.08207321167, -133.02597045898],
-        "grenade": {
-          "run": 15
-        }
-      },
-      {
-        "name": ["Unnamed", "Cond"],
-        "weapon": "weapon_molotov",
-        "position": [522.04113769531, 778.50506591797, 13.308541297913],
-        "viewangles": [-27.610069274902, -132.98204040527],
-        "grenade": {
-          "run": 15
-        }
-      },
-      {
-        "name": ["Unnamed", "Boost"],
-        "weapon": "weapon_molotov",
-        "position": [771.73950195313, 747.93249511719, -29.345888137817],
-        "viewangles": [-6.7760257720947, -136.25997924805],
-        "grenade": {
-          "run": 22,
-          "jump": true
-        }
-      },
-      {
-        "name": ["Unnamed", "Cond"],
-        "weapon": "weapon_molotov",
-        "position": [771.70642089844, 747.85522460938, -29.348453521729],
-        "viewangles": [-32.912029266357, -140.57202148438],
-        "grenade": {
-          "run": 10
-        }
-      },
-      {
-        "name": ["Unnamed", "Truck + Hydrant"],
-        "weapon": "weapon_molotov",
-        "position": [-711.41473388672, -489.02053833008, 149.03125],
-        "viewangles": [-17.357995986938, 44.659774780273],
-        "grenade": {
-          "run": 2
-        }
-      },
-      {
-        "name": ["Unnamed", "Car"],
-        "weapon": "weapon_hegrenade",
-        "position": [-534.56170654297, -562.26208496094, 188.03125],
-        "viewangles": [-0.097795069217682, 8.7880935668945],
-        "grenade": {
-          "run": 16
-        }
-      },
-      {
-        "name": ["Unnamed", "S.W.A.T 1V1 \/ UNSAFE "],
-        "description": "UNSAFE",
-        "weapon": "weapon_molotov",
-        "position": [-395.82653808594, -566.34906005859, 188.03125],
-        "viewangles": [-13.662323951721, 3.1367046833038],
-        "grenade": {
-          "run": 16
-        }
-      },
-      {
-        "name": ["a", "Right Cond"],
-        "description": "UNSAFE",
-        "weapon": "weapon_molotov",
-        "position": [1760.2983398438, -514.64123535156, -31.960163116455],
-        "viewangles": [-3.9316012859344, 172.27920532227],
-        "grenade": {
-          "run": 34,
-          "recovery_jump": true,
-          "recovery_yaw": 0,
-          "jump": true
-        }
-      },
-      {
-        "name": ["Unnamed", "S.W.A.T"],
-        "weapon": "weapon_molotov",
-        "position": [-520.77465820313, -584.15905761719, 188.03125],
-        "viewangles": [17.167743682861, 1.2732112407684],
-        "grenade": {
-          "run": 50,
-          "jump": true
-        }
-      },
-      {
-        "name": ["Unnamed", "S.W.A.T [50 \/ 50]"],
-        "weapon": "weapon_molotov",
-        "position": [-551.66870117188, -229.72955322266, 148.00006103516],
-        "viewangles": [-14.372005462646, -4.904896736145],
-        "grenade": {
-          "run": 27
-        }
-      },
-      {
-        "name": ["Unnamed", "Car"],
-        "weapon": "weapon_molotov",
-        "position": [-469.95843505859, -237.69331359863, 143.03125],
-        "viewangles": [-4.6594657897949, -5.2306108474731],
-        "grenade": {
-          "run": 3
-        }
-      },
-      {
-        "name": ["Unnamed", "Car"],
-        "weapon": "weapon_hegrenade",
-        "position": [-551.06994628906, -236.40670776367, 147.94454956055],
-        "viewangles": [-4.6596126556396, -4.2521152496338],
-        "grenade": {
-          "run": 10
-        }
-      },
-      {
-        "name": ["Unnamed", "S.W.A.T"],
-        "weapon": "weapon_molotov",
-        "position": [-23.866973876953, -840.10357666016, 239.03125],
-        "viewangles": [14.526035308838, 10.796516418457],
-        "grenade": {
-          "run": 4,
-          "recovery_yaw": 18,
-          "jump": true
-        }
-      },
-      {
-        "name": ["Unnamed", "Car"],
-        "weapon": "weapon_hegrenade",
-        "position": [-173.51924133301, -897.73919677734, 188.03125],
-        "viewangles": [0.17975568771362, 27.201328277588],
-        "grenade": {
-          "run": 1
-        }
-      },
-      {
-        "name": ["Unnamed", "S.W.A.T"],
-        "description": "MEGA UNSAFE",
-        "weapon": "weapon_hegrenade",
-        "position": [-251.91825866699, -827.50061035156, 188.03125],
-        "viewangles": [-4.3887243270874, 10.641305923462],
-        "grenade": {
-          "run": 69,
-          "recovery_yaw": -90
-        }
-      },
-      {
-        "name": ["Unnamed", "S.W.A.T"],
-        "weapon": "weapon_molotov",
-        "position": [-280.54971313477, -832.59887695313, 188.03125],
-        "viewangles": [-7.6454706192017, 8.9754133224487],
-        "grenade": {
-          "run": 6
-        }
-      },
-      {
-        "name": ["Unnamed", "S.W.A.T [Left]"],
-        "weapon": "weapon_molotov",
-        "position": [-15.850004196167, -833.15814208984, 239.03125],
-        "viewangles": [8.6903457641602, 18.303842544556],
-        "grenade": {
-          "run": 1,
-          "recovery_jump": true,
-          "run_speed": true,
-          "delay": 3,
-          "recovery_yaw": 0,
-          "jump": true
-        }
-      },
-      {
-        "name": ["Unnamed", "Truck"],
-        "weapon": "weapon_molotov",
-        "position": [-469.98657226563, -237.65077209473, 143.03125],
-        "viewangles": [-14.574754714966, -15.716879844666],
-        "grenade": {
-          "run": 2
-        }
-      },
-      {
-        "name": ["Unnamed", "Car [Left]"],
-        "description": "Safe",
-        "weapon": "weapon_molotov",
-        "position": [-714.15356445313, -371.13970947266, 149.03125],
-        "viewangles": [-12.374531745911, 16.31467628479],
-        "grenade": {
-          "run": 6,
-          "recovery_yaw": -90
-        }
-      },
-      {
-        "name": ["Unnamed", "Car"],
-        "weapon": "weapon_molotov",
-        "position": [-520.71148681641, -584.17047119141, 188.03125],
-        "viewangles": [-9.9546747207642, 8.449764251709],
-        "grenade": {
-          "run": 5,
-          "run_speed": true
-        }
-      },
-      {
-        "name": ["Unnamed", "Truck"],
-        "weapon": "weapon_molotov",
-        "position": [-520.67321777344, -584.14624023438, 188.03125],
-        "viewangles": [-10.009674072266, -3.100385427475],
-        "grenade": {
-          "run": 5
-        }
-      },
-      {
-        "name": ["Unnamed", "Car"],
-        "weapon": "weapon_hegrenade",
-        "position": [-422.71313476563, -614.09136962891, 188.03125],
-        "viewangles": [-0.87956410646439, 7.9797787666321],
-        "grenade": {
-          "run": 4
-        }
-      },
-      {
-        "name": ["Unnamed", "Truck"],
-        "weapon": "weapon_hegrenade",
-        "position": [-422.59451293945, -614.0380859375, 188.03125],
-        "viewangles": [-3.8494343757629, -1.6803399324417],
-        "grenade": {
-          "run": 12
-        }
-      },
-      {
-        "name": ["Unnamed", "Car"],
-        "description": "Full dmg",
-        "weapon": "weapon_hegrenade",
-        "position": [-227.81687927246, -901.14459228516, 188.03125],
-        "viewangles": [1.0549708604813, 23.03537940979],
-        "grenade": {
-          "run": 12,
-          "run_speed": true
-        }
-      },
-      {
-        "name": ["Unnamed", "Car"],
-        "weapon": "weapon_molotov",
-        "position": [-228.9779510498, -908.03790283203, 188.03125],
-        "viewangles": [-3.3450410366058, 24.940086364746],
-        "grenade": {
-          "run": 1,
-          "run_speed": true
-        }
-      },
-      {
-        "name": ["Trash", "Trash"],
-        "weapon": "weapon_molotov",
-        "position": [-199.0227355957, -692.83703613281, 188.03125],
-        "viewangles": [10.734949111938, -12.14594745636],
-        "grenade": {
-          "run": 28,
-          "recovery_yaw": -163,
-          "jump": true
-        }
-      },
-      {
-        "name": ["Unnamed", "Car [Left]"],
-        "description": "UNSAFE",
-        "weapon": "weapon_hegrenade",
-        "position": [-515.73284912109, -292.20355224609, 144.14808654785],
-        "viewangles": [-3.5650722980499, 14.629653930664],
-        "grenade": {
-          "run": 17
-        }
-      },
-      {
-        "name": ["Unnamed", "Car [UNSAFE FOR FBI]"],
-        "weapon": "weapon_hegrenade",
-        "position": [-511.33074951172, -415.73907470703, 188.03125],
-        "viewangles": [-1.6735036373138, 3.4350130558014],
-        "grenade": {
-          "run": 11
-        }
-      },
-      {
-        "name": ["Unnamed", "Car [Left]"],
-        "description": "unsafe",
-        "weapon": "weapon_molotov",
-        "position": [-482.50732421875, -283.16354370117, 143.03125],
-        "viewangles": [-11.769598960876, 15.403177261353],
-        "grenade": {
-          "run": 7,
-          "run_speed": true
-        }
-      },
-      {
-        "name": ["Unnamed", "Car"],
-        "weapon": "weapon_molotov",
-        "position": [-1026.0419921875, -111.03565216064, -31.96875],
-        "viewangles": [1.9245476722717, -8.1048183441162],
-        "grenade": {
-          "run": 16,
-          "jump": true
-        }
-      },
-      {
-        "name": ["Unnamed", "Car"],
-        "weapon": "weapon_molotov",
-        "position": [-1217.8690185547, -258.63284301758, -31.96875],
-        "viewangles": [1.9792718887329, -3.4308779239655],
-        "grenade": {
-          "run": 28,
-          "jump": true
-        }
-      },
-      {
-        "name": ["Unnamed", "Trash"],
-        "description": "41hp",
-        "weapon": "weapon_hegrenade",
-        "position": [1106.4512939453, -1952.1862792969, -16.671716690063],
-        "viewangles": [-15.841167449951, 43.434410095215],
-        "grenade": {
-          "run": 1,
-          "run_speed": true
-        }
-      },
-      {
-        "name": ["Unnamed", "Trash"],
-        "weapon": "weapon_molotov",
-        "position": [1106.5441894531, -1952.1962890625, -16.62257194519],
-        "viewangles": [-16.930158615112, 41.537994384766],
-        "grenade": {
-          "run": 1,
-          "run_speed": true
-        }
-      },
-      {
-        "name": ["Unnamed", "Car L"],
-        "weapon": "weapon_hegrenade",
-        "position": [1162.8774414063, -1945.4377441406, 10.076377868652],
-        "viewangles": [-14.008561134338, 83.082939147949],
-        "grenade": {
-          "run": 21
-        }
-      },
-      {
-        "name": ["Unnamed", "Car R"],
-        "weapon": "weapon_hegrenade",
-        "position": [1159.9559326172, -1956.8590087891, 6.0277786254883],
-        "viewangles": [-13.799559593201, 76.236595153809],
-        "grenade": {
-          "run": 21
-        }
-      },
-      {
-        "name": ["Unnamed", "Car"],
-        "weapon": "weapon_molotov",
-        "position": [1159.9528808594, -1956.8743896484, 6.0237846374512],
-        "viewangles": [-14.492563247681, 80.748809814453],
-        "grenade": {
-          "run": 21
-        }
-      },
-      {
-        "name": ["Roof", "Car"],
-        "weapon": "weapon_hegrenade",
-        "position": [-449.97875976563, -688.35192871094, 188.03123474121],
-        "viewangles": [-0.8803151845932, 13.521266937256],
-        "grenade": {
-          "run": 10
-        }
-      },
-      {
-        "name": ["Patio", "Car"],
-        "weapon": "weapon_molotov",
-        "position": [-708.12554931641, -731.05578613281, 149.03125],
-        "viewangles": [6.6792135238647, 12.299731254578],
-        "grenade": {
-          "run": 5,
-          "recovery_yaw": 0,
-          "jump": true
-        }
-      },
-      {
-        "name": ["Roof", "SWAT"],
-        "weapon": "weapon_molotov",
-        "position": [-428.80838012695, -633.84393310547, 188.03125],
-        "viewangles": [-10.084847450256, 5.2872195243835],
-        "grenade": {
-          "run": 22
-        }
-      },
-      {
-        "name": ["Roof", "Swat"],
-        "description": "Left",
-        "weapon": "weapon_molotov",
-        "position": [-33.445133209229, -850.95574951172, 239.03125],
-        "viewangles": [10.749250411987, 15.841251373291],
-        "grenade": {
-          "run": 10,
-          "recovery_jump": true,
-          "run_speed": true,
-          "delay": 1,
-          "recovery_yaw": 5,
-          "jump": true
-        }
-      },
-      {
-        "name": ["Roof", "Car"],
-        "weapon": "weapon_molotov",
-        "position": [-527.70141601563, -956.70166015625, 188.03125],
-        "viewangles": [-2.3479714393616, 23.817991256714],
-        "grenade": {
-          "run": 10
-        }
-      },
-      {
-        "name": ["Roof", "Car"],
-        "weapon": "weapon_molotov",
-        "position": [-410.21542358398, -772.25610351563, 188.03125],
-        "viewangles": [-12.989395141602, 18.828409194946],
-        "grenade": {
-          "run": 15
-        },
-        "duck": true
-      },
-      {
-        "name": ["SWAT", "Vents"],
-        "weapon": "weapon_molotov",
-        "position": [1664.5, -533.63732910156, -30.538902282715],
-        "viewangles": [-5.489531993866, 171.5595703125],
-        "grenade": {
-          "run": 26,
-          "recovery_yaw": -52,
-          "jump": true
-        }
-      },
-      {
-        "name": ["Roof", "Car"],
-        "weapon": "weapon_hegrenade",
-        "position": [-697.15789794922, -214.67477416992, 149.03125],
-        "viewangles": [-4.3724517822266, -4.7671060562134],
-        "grenade": {
-          "run": 24
-        }
-      }
+  {
+    "name": [
+      "Box",
+      "Car"
+    ],
+    "description": "center",
+    "weapon": "weapon_hegrenade",
+    "position": [
+      -551.32421875,
+      -255.59642028809,
+      147.95771789551
+    ],
+    "viewangles": [
+      -3.5706372261047,
+      -5.4862790107727
+    ],
+    "grenade": {
+      "run": 9
+    }
+  },
+  {
+    "name": [
+      "Pillar",
+      "Car"
+    ],
+    "weapon": "weapon_hegrenade",
+    "position": [
+      -25.877429962158,
+      -814.41888427734,
+      190.46044921875
+    ],
+    "viewangles": [
+      -0.57593309879303,
+      22.3173828125
+    ],
+    "duck": true
+  },
+  {
+    "name": [
+      "Truck",
+      "Pillar"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      970.89465332031,
+      -388.31427001953,
+      -27.260366439819
+    ],
+    "viewangles": [
+      -32.156517028809,
+      -156.95921325684
+    ],
+    "duck": true
+  },
+  {
+    "name": [
+      "here",
+      "S.W.A.T"
+    ],
+    "description": "LEFT",
+    "weapon": "weapon_molotov",
+    "position": [
+      -520.65985107422,
+      -584.25836181641,
+      188.03125
+    ],
+    "viewangles": [
+      8.657603263855,
+      2.8674876689911
+    ],
+    "grenade": {
+      "run": 20,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Left-Car",
+      "Left-Car"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -1062.8155517578,
+      -344.76284790039,
+      30.839721679688
+    ],
+    "viewangles": [
+      4.2535920143127,
+      12.537452697754
+    ],
+    "grenade": {
+      "fov": 5.12,
+      "run": 26,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "BOMB",
+      "BOMB"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      1107.7540283203,
+      -333.48056030273,
+      -26.993045806885
+    ],
+    "viewangles": [
+      -9.6557970046997,
+      177.19026184082
+    ],
+    "grenade": {
+      "fov": 5.12,
+      "run": 21
+    }
+  },
+  {
+    "name": [
+      "Car",
+      "Car"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      1601.9598388672,
+      -482.61636352539,
+      -28.446376800537
+    ],
+    "viewangles": [
+      -1.93601155,
+      148.728
     ]
+  },
+  {
+    "name": [
+      "FBI car",
+      "FBI car"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -410.77087402344,
+      -924.93975830078,
+      262.20211791992
+    ],
+    "viewangles": [
+      12.8424616,
+      11.9762936
+    ],
+    "grenade": {
+      "run": 19,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "trash",
+      "trash"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      1112.7438964844,
+      -1459.9997558594,
+      -15.224891662598
+    ],
+    "viewangles": [
+      -12.9076395,
+      18.9492188
+    ]
+  },
+  {
+    "name": [
+      "FBI-Car",
+      "FBI-Car"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      311.95855712891,
+      681.62060546875,
+      60.034477233887
+    ],
+    "viewangles": [
+      -8.361313,
+      -42.9121323
+    ],
+    "grenade": {
+      "run": 8
+    }
+  },
+  {
+    "name": [
+      "Fbi car",
+      "Fbi car"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      861.53833007813,
+      -711.91387939453,
+      -28.989002227783
+    ],
+    "viewangles": [
+      -19.94764,
+      44.7251
+    ]
+  },
+  {
+    "name": [
+      "FBI-Car",
+      "FBI-Car"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -101.96874237061,
+      -576.77551269531,
+      189.03125
+    ],
+    "viewangles": [
+      -9.593823,
+      1.86533523
+    ],
+    "grenade": {
+      "run": 3
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Car"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      1585.0660400391,
+      -424.89324951172,
+      -29.6171875
+    ],
+    "viewangles": [
+      -4.3288946151733,
+      154.5315246582
+    ],
+    "grenade": {
+      "fov": 5.12
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Car"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      1585.0660400391,
+      -424.89324951172,
+      -29.6171875
+    ],
+    "viewangles": [
+      -21.508676528931,
+      171.33535766602
+    ],
+    "grenade": {
+      "strength": 0.5,
+      "fov": 5.12
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Car"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      1579.0267333984,
+      -485.53106689453,
+      -29.057689666748
+    ],
+    "viewangles": [
+      -58.125507354736,
+      160.02674865723
+    ],
+    "grenade": {
+      "fov": 5.12
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Car"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      1579.0267333984,
+      -485.53106689453,
+      -29.057689666748
+    ],
+    "viewangles": [
+      -21.132444381714,
+      133.69198608398
+    ],
+    "grenade": {
+      "fov": 5.12
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Car"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      1901.6671142578,
+      -1203.96875,
+      -31.96875
+    ],
+    "viewangles": [
+      -18.499025344849,
+      138.33213806152
+    ],
+    "grenade": {
+      "fov": 5.12
+    },
+    "duck": true
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Car"
+    ],
+    "description": "Right",
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      1579.0267333984,
+      -485.53106689453,
+      -29.057689666748
+    ],
+    "viewangles": [
+      -2.4478151798248,
+      137.32878112793
+    ],
+    "grenade": {
+      "fov": 5.12
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "FBI-CAR"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      367.83340454102,
+      -1930.6728515625,
+      -28.846643447876
+    ],
+    "viewangles": [
+      -22.09460067749,
+      51.7692527771
+    ],
+    "grenade": {
+      "fov": 5.12,
+      "run": 23
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "FBI CAR"
+    ],
+    "weapon": "weapon_hegrenade",
+    "position": [
+      308.11187744141,
+      -234.55499267578,
+      -24.96875
+    ],
+    "viewangles": [
+      -16.042673110962,
+      -11.148731231689
+    ],
+    "grenade": {
+      "fov": 5.12,
+      "run": 1
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "FBI CAR"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      449.98980712891,
+      -268.54888916016,
+      -24.96875
+    ],
+    "viewangles": [
+      -19.599340438843,
+      -11.270133972168
+    ],
+    "grenade": {
+      "fov": 5.12,
+      "run": 1
+    },
+    "duck": true
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Wall"
+    ],
+    "weapon": "weapon_hegrenade",
+    "position": [
+      1722.7242431641,
+      -674.3759765625,
+      -31.58286857605
+    ],
+    "viewangles": [
+      -0.91173201799393,
+      -176.54364013672
+    ],
+    "grenade": {
+      "run": 39,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Cond"
+    ],
+    "weapon": "weapon_hegrenade",
+    "position": [
+      1722.7165527344,
+      -674.36450195313,
+      -31.582767486572
+    ],
+    "viewangles": [
+      -2.9181432723999,
+      176.61483764648
+    ],
+    "grenade": {
+      "run": 42,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Wall"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      1641.0339355469,
+      -700.14587402344,
+      -30.14479637146
+    ],
+    "viewangles": [
+      -3.4196841716766,
+      -177.75727844238
+    ],
+    "grenade": {
+      "run": 6,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Cond"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      1641.0756835938,
+      -700.15008544922,
+      -30.145618438721
+    ],
+    "viewangles": [
+      -6.6800494194031,
+      176.05139160156
+    ],
+    "grenade": {
+      "run": 6,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Cond Right"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      1618.6053466797,
+      -776.40991210938,
+      -29.561496734619
+    ],
+    "viewangles": [
+      -5.5515532493591,
+      166.13032531738
+    ],
+    "grenade": {
+      "run": 35,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Boost"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      1440.0684814453,
+      -613.07550048828,
+      -27.265689849854
+    ],
+    "viewangles": [
+      -3.8934900760651,
+      -179.61212158203
+    ],
+    "grenade": {
+      "run": 26,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Cond"
+    ],
+    "description": "Right",
+    "weapon": "weapon_molotov",
+    "position": [
+      1049.8160400391,
+      -283.56884765625,
+      -27.193143844604
+    ],
+    "viewangles": [
+      0.71845930814743,
+      -169.91876220703
+    ],
+    "grenade": {
+      "run": 16,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Boost"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      1048.1350097656,
+      -426.08792114258,
+      -27.042402267456
+    ],
+    "viewangles": [
+      -0.91174054145813,
+      -173.68078613281
+    ],
+    "grenade": {
+      "run": 10,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "BOMB"
+    ],
+    "weapon": "weapon_hegrenade",
+    "position": [
+      278.69924926758,
+      430.22671508789,
+      -25.158756256104
+    ],
+    "viewangles": [
+      -8.0850219726563,
+      -136.25508117676
+    ],
+    "grenade": {
+      "run": 2,
+      "recovery_yaw": -90
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Car"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -1064.9298095703,
+      -209.30592346191,
+      -31.96875
+    ],
+    "viewangles": [
+      0.89645892381668,
+      -3.3068311214447
+    ],
+    "grenade": {
+      "run": 20,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Truck"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -1064.8021240234,
+      -209.39581298828,
+      -31.96875
+    ],
+    "viewangles": [
+      -2.489342212677,
+      -10.705471038818
+    ],
+    "grenade": {
+      "run": 33,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "BOMB"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -631.56268310547,
+      -211.18035888672,
+      -24.96875
+    ],
+    "viewangles": [
+      -4.8906755447388,
+      -64.966957092285
+    ],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": [
+      "Window(CTRL)",
+      "Window"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -551.97479248047,
+      -158.02816772461,
+      -23.96875
+    ],
+    "viewangles": [
+      -13.217739105225,
+      -49.340637207031
+    ],
+    "duck": true
+  },
+  {
+    "name": [
+      "Unnamed",
+      "push"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -551.96148681641,
+      -158.03424072266,
+      -23.96875
+    ],
+    "viewangles": [
+      10.762377738953,
+      -50.000869750977
+    ]
+  },
+  {
+    "name": [
+      "Back-FBI Car",
+      "BACK FBI"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      801.08715820313,
+      -340.25067138672,
+      -29.190570831299
+    ],
+    "viewangles": [
+      -12.136857032776,
+      6.5259518623352
+    ]
+  },
+  {
+    "name": [
+      "boost",
+      "boost"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      443.31671142578,
+      -1872.5092773438,
+      -27.214218139648
+    ],
+    "viewangles": [
+      1.409851,
+      54.157238
+    ],
+    "grenade": {
+      "run": 9,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Car66",
+      "Car"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -111.53073120117,
+      -631.45483398438,
+      211.03125
+    ],
+    "viewangles": [
+      0.8683753,
+      12.8904657
+    ]
+  },
+  {
+    "name": [
+      "Bank",
+      "Bank"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      1023.8213500977,
+      -456.84936523438,
+      -26.122528076172
+    ],
+    "viewangles": [
+      -7.00581264,
+      172.8958
+    ],
+    "grenade": {
+      "run": 22
+    }
+  },
+  {
+    "name": [
+      "Car",
+      "Car"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      1618.4541015625,
+      -541.07885742188,
+      -28.720031738281
+    ],
+    "viewangles": [
+      -22.8850441,
+      142.025772
+    ]
+  },
+  {
+    "name": [
+      "Trash Molly",
+      "Trash Molly"
+    ],
+    "description": "SLOW \/ UNSAFE",
+    "weapon": "weapon_molotov",
+    "position": [
+      1338.646484375,
+      -1417.5797119141,
+      32.713348388672
+    ],
+    "viewangles": [
+      -12.37986,
+      32.2520981
+    ],
+    "grenade": {
+      "strength": 0.5
+    }
+  },
+  {
+    "name": [
+      "White1",
+      "Left Car"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -189.88612365723,
+      -926.52178955078,
+      188.03125
+    ],
+    "viewangles": [
+      -5.9076542854309,
+      40.848983764648
+    ],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Cond"
+    ],
+    "description": "Right",
+    "weapon": "weapon_molotov",
+    "position": [
+      618.66076660156,
+      840.71240234375,
+      -30.764554977417
+    ],
+    "viewangles": [
+      -31.724004745483,
+      -134.14782714844
+    ],
+    "grenade": {
+      "run": 11
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Boost"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      521.88171386719,
+      781.93444824219,
+      13.361572265625
+    ],
+    "viewangles": [
+      -32.934070587158,
+      -130.0558013916
+    ],
+    "grenade": {
+      "run": 16
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Cond"
+    ],
+    "weapon": "weapon_hegrenade",
+    "position": [
+      834.68280029297,
+      781.25329589844,
+      -30.710266113281
+    ],
+    "viewangles": [
+      0.52796649932861,
+      -142.79399108887
+    ],
+    "grenade": {
+      "run": 25,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Cond"
+    ],
+    "weapon": "weapon_hegrenade",
+    "position": [
+      522.05889892578,
+      778.50134277344,
+      13.302621841431
+    ],
+    "viewangles": [
+      -27.08207321167,
+      -133.02597045898
+    ],
+    "grenade": {
+      "run": 15
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Cond"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      522.04113769531,
+      778.50506591797,
+      13.308541297913
+    ],
+    "viewangles": [
+      -27.610069274902,
+      -132.98204040527
+    ],
+    "grenade": {
+      "run": 15
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Boost"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      771.73950195313,
+      747.93249511719,
+      -29.345888137817
+    ],
+    "viewangles": [
+      -6.7760257720947,
+      -136.25997924805
+    ],
+    "grenade": {
+      "run": 22,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Cond"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      771.70642089844,
+      747.85522460938,
+      -29.348453521729
+    ],
+    "viewangles": [
+      -32.912029266357,
+      -140.57202148438
+    ],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Truck + Hydrant"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -711.41473388672,
+      -489.02053833008,
+      149.03125
+    ],
+    "viewangles": [
+      -17.357995986938,
+      44.659774780273
+    ],
+    "grenade": {
+      "run": 2
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Car"
+    ],
+    "weapon": "weapon_hegrenade",
+    "position": [
+      -534.56170654297,
+      -562.26208496094,
+      188.03125
+    ],
+    "viewangles": [
+      -0.097795069217682,
+      8.7880935668945
+    ],
+    "grenade": {
+      "run": 16
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "S.W.A.T 1V1 \/ UNSAFE "
+    ],
+    "description": "UNSAFE",
+    "weapon": "weapon_molotov",
+    "position": [
+      -395.82653808594,
+      -566.34906005859,
+      188.03125
+    ],
+    "viewangles": [
+      -13.662323951721,
+      3.1367046833038
+    ],
+    "grenade": {
+      "run": 16
+    }
+  },
+  {
+    "name": [
+      "a",
+      "Right Cond"
+    ],
+    "description": "UNSAFE",
+    "weapon": "weapon_molotov",
+    "position": [
+      1760.2983398438,
+      -514.64123535156,
+      -31.960163116455
+    ],
+    "viewangles": [
+      -3.9316012859344,
+      172.27920532227
+    ],
+    "grenade": {
+      "run": 34,
+      "recovery_jump": true,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "S.W.A.T"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -520.77465820313,
+      -584.15905761719,
+      188.03125
+    ],
+    "viewangles": [
+      17.167743682861,
+      1.2732112407684
+    ],
+    "grenade": {
+      "run": 50,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "S.W.A.T [50 \/ 50]"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -551.66870117188,
+      -229.72955322266,
+      148.00006103516
+    ],
+    "viewangles": [
+      -14.372005462646,
+      -4.904896736145
+    ],
+    "grenade": {
+      "run": 27
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Car"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -469.95843505859,
+      -237.69331359863,
+      143.03125
+    ],
+    "viewangles": [
+      -4.6594657897949,
+      -5.2306108474731
+    ],
+    "grenade": {
+      "run": 3
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Car"
+    ],
+    "weapon": "weapon_hegrenade",
+    "position": [
+      -551.06994628906,
+      -236.40670776367,
+      147.94454956055
+    ],
+    "viewangles": [
+      -4.6596126556396,
+      -4.2521152496338
+    ],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "S.W.A.T"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -23.866973876953,
+      -840.10357666016,
+      239.03125
+    ],
+    "viewangles": [
+      14.526035308838,
+      10.796516418457
+    ],
+    "grenade": {
+      "run": 4,
+      "recovery_yaw": 18,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Car"
+    ],
+    "weapon": "weapon_hegrenade",
+    "position": [
+      -173.51924133301,
+      -897.73919677734,
+      188.03125
+    ],
+    "viewangles": [
+      0.17975568771362,
+      27.201328277588
+    ],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "S.W.A.T"
+    ],
+    "description": "MEGA UNSAFE",
+    "weapon": "weapon_hegrenade",
+    "position": [
+      -251.91825866699,
+      -827.50061035156,
+      188.03125
+    ],
+    "viewangles": [
+      -4.3887243270874,
+      10.641305923462
+    ],
+    "grenade": {
+      "run": 69,
+      "recovery_yaw": -90
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "S.W.A.T"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -280.54971313477,
+      -832.59887695313,
+      188.03125
+    ],
+    "viewangles": [
+      -7.6454706192017,
+      8.9754133224487
+    ],
+    "grenade": {
+      "run": 6
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "S.W.A.T [Left]"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -15.850004196167,
+      -833.15814208984,
+      239.03125
+    ],
+    "viewangles": [
+      8.6903457641602,
+      18.303842544556
+    ],
+    "grenade": {
+      "run": 1,
+      "recovery_jump": true,
+      "run_speed": true,
+      "delay": 3,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Truck"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -469.98657226563,
+      -237.65077209473,
+      143.03125
+    ],
+    "viewangles": [
+      -14.574754714966,
+      -15.716879844666
+    ],
+    "grenade": {
+      "run": 2
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Car [Left]"
+    ],
+    "description": "Safe",
+    "weapon": "weapon_molotov",
+    "position": [
+      -714.15356445313,
+      -371.13970947266,
+      149.03125
+    ],
+    "viewangles": [
+      -12.374531745911,
+      16.31467628479
+    ],
+    "grenade": {
+      "run": 6,
+      "recovery_yaw": -90
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Car"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -520.71148681641,
+      -584.17047119141,
+      188.03125
+    ],
+    "viewangles": [
+      -9.9546747207642,
+      8.449764251709
+    ],
+    "grenade": {
+      "run": 5,
+      "run_speed": true
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Truck"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -520.67321777344,
+      -584.14624023438,
+      188.03125
+    ],
+    "viewangles": [
+      -10.009674072266,
+      -3.100385427475
+    ],
+    "grenade": {
+      "run": 5
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Car"
+    ],
+    "weapon": "weapon_hegrenade",
+    "position": [
+      -422.71313476563,
+      -614.09136962891,
+      188.03125
+    ],
+    "viewangles": [
+      -0.87956410646439,
+      7.9797787666321
+    ],
+    "grenade": {
+      "run": 4
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Truck"
+    ],
+    "weapon": "weapon_hegrenade",
+    "position": [
+      -422.59451293945,
+      -614.0380859375,
+      188.03125
+    ],
+    "viewangles": [
+      -3.8494343757629,
+      -1.6803399324417
+    ],
+    "grenade": {
+      "run": 12
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Car"
+    ],
+    "description": "Full dmg",
+    "weapon": "weapon_hegrenade",
+    "position": [
+      -227.81687927246,
+      -901.14459228516,
+      188.03125
+    ],
+    "viewangles": [
+      1.0549708604813,
+      23.03537940979
+    ],
+    "grenade": {
+      "run": 12,
+      "run_speed": true
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Car"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -228.9779510498,
+      -908.03790283203,
+      188.03125
+    ],
+    "viewangles": [
+      -3.3450410366058,
+      24.940086364746
+    ],
+    "grenade": {
+      "run": 1,
+      "run_speed": true
+    }
+  },
+  {
+    "name": [
+      "Trash",
+      "Trash"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -199.0227355957,
+      -692.83703613281,
+      188.03125
+    ],
+    "viewangles": [
+      10.734949111938,
+      -12.14594745636
+    ],
+    "grenade": {
+      "run": 28,
+      "recovery_yaw": -163,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Car [Left]"
+    ],
+    "description": "UNSAFE",
+    "weapon": "weapon_hegrenade",
+    "position": [
+      -515.73284912109,
+      -292.20355224609,
+      144.14808654785
+    ],
+    "viewangles": [
+      -3.5650722980499,
+      14.629653930664
+    ],
+    "grenade": {
+      "run": 17
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Car [UNSAFE FOR FBI]"
+    ],
+    "weapon": "weapon_hegrenade",
+    "position": [
+      -511.33074951172,
+      -415.73907470703,
+      188.03125
+    ],
+    "viewangles": [
+      -1.6735036373138,
+      3.4350130558014
+    ],
+    "grenade": {
+      "run": 11
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Car [Left]"
+    ],
+    "description": "unsafe",
+    "weapon": "weapon_molotov",
+    "position": [
+      -482.50732421875,
+      -283.16354370117,
+      143.03125
+    ],
+    "viewangles": [
+      -11.769598960876,
+      15.403177261353
+    ],
+    "grenade": {
+      "run": 7,
+      "run_speed": true
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Car"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -1026.0419921875,
+      -111.03565216064,
+      -31.96875
+    ],
+    "viewangles": [
+      1.9245476722717,
+      -8.1048183441162
+    ],
+    "grenade": {
+      "run": 16,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Car"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -1217.8690185547,
+      -258.63284301758,
+      -31.96875
+    ],
+    "viewangles": [
+      1.9792718887329,
+      -3.4308779239655
+    ],
+    "grenade": {
+      "run": 28,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Trash"
+    ],
+    "description": "41hp",
+    "weapon": "weapon_hegrenade",
+    "position": [
+      1106.4512939453,
+      -1952.1862792969,
+      -16.671716690063
+    ],
+    "viewangles": [
+      -15.841167449951,
+      43.434410095215
+    ],
+    "grenade": {
+      "run": 1,
+      "run_speed": true
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Trash"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      1106.5441894531,
+      -1952.1962890625,
+      -16.62257194519
+    ],
+    "viewangles": [
+      -16.930158615112,
+      41.537994384766
+    ],
+    "grenade": {
+      "run": 1,
+      "run_speed": true
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Car L"
+    ],
+    "weapon": "weapon_hegrenade",
+    "position": [
+      1162.8774414063,
+      -1945.4377441406,
+      10.076377868652
+    ],
+    "viewangles": [
+      -14.008561134338,
+      83.082939147949
+    ],
+    "grenade": {
+      "run": 21
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Car R"
+    ],
+    "weapon": "weapon_hegrenade",
+    "position": [
+      1159.9559326172,
+      -1956.8590087891,
+      6.0277786254883
+    ],
+    "viewangles": [
+      -13.799559593201,
+      76.236595153809
+    ],
+    "grenade": {
+      "run": 21
+    }
+  },
+  {
+    "name": [
+      "Unnamed",
+      "Car"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      1159.9528808594,
+      -1956.8743896484,
+      6.0237846374512
+    ],
+    "viewangles": [
+      -14.492563247681,
+      80.748809814453
+    ],
+    "grenade": {
+      "run": 21
+    }
+  },
+  {
+    "name": [
+      "Roof",
+      "Car"
+    ],
+    "weapon": "weapon_hegrenade",
+    "position": [
+      -449.97875976563,
+      -688.35192871094,
+      188.03123474121
+    ],
+    "viewangles": [
+      -0.8803151845932,
+      13.521266937256
+    ],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": [
+      "Patio",
+      "Car"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -708.12554931641,
+      -731.05578613281,
+      149.03125
+    ],
+    "viewangles": [
+      6.6792135238647,
+      12.299731254578
+    ],
+    "grenade": {
+      "run": 5,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Roof",
+      "SWAT"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -428.80838012695,
+      -633.84393310547,
+      188.03125
+    ],
+    "viewangles": [
+      -10.084847450256,
+      5.2872195243835
+    ],
+    "grenade": {
+      "run": 22
+    }
+  },
+  {
+    "name": [
+      "Roof",
+      "Swat"
+    ],
+    "description": "Left",
+    "weapon": "weapon_molotov",
+    "position": [
+      -33.445133209229,
+      -850.95574951172,
+      239.03125
+    ],
+    "viewangles": [
+      10.749250411987,
+      15.841251373291
+    ],
+    "grenade": {
+      "run": 10,
+      "recovery_jump": true,
+      "run_speed": true,
+      "delay": 1,
+      "recovery_yaw": 5,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Roof",
+      "Car"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -527.70141601563,
+      -956.70166015625,
+      188.03125
+    ],
+    "viewangles": [
+      -2.3479714393616,
+      23.817991256714
+    ],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": [
+      "Roof",
+      "Car"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -410.21542358398,
+      -772.25610351563,
+      188.03125
+    ],
+    "viewangles": [
+      -12.989395141602,
+      18.828409194946
+    ],
+    "grenade": {
+      "run": 15
+    },
+    "duck": true
+  },
+  {
+    "name": [
+      "SWAT",
+      "Vents"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      1664.5,
+      -533.63732910156,
+      -30.538902282715
+    ],
+    "viewangles": [
+      -5.489531993866,
+      171.5595703125
+    ],
+    "grenade": {
+      "run": 26,
+      "recovery_yaw": -52,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Roof",
+      "Car"
+    ],
+    "weapon": "weapon_hegrenade",
+    "position": [
+      -697.15789794922,
+      -214.67477416992,
+      149.03125
+    ],
+    "viewangles": [
+      -4.3724517822266,
+      -4.7671060562134
+    ],
+    "grenade": {
+      "run": 24
+    }
+  },
+  {
+    "grenade": {
+        "run": 2
+    },
+    "viewangles": [
+        -17.808815002441,
+        44.720626831055
+    ],
+    "position": [
+        -711.37957763672,
+        -488.98583984375,
+        149.03125
+    ],
+    "name": [
+        "Unnamed",
+        "Red Truck"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 28,
+        "jump": true,
+        "delay": 5
+    },
+    "viewangles": [
+        -0.97266447544098,
+        11.925058364868
+    ],
+    "position": [
+        -1070.2741699219,
+        -346.03314208984,
+        30.839721679688
+    ],
+    "name": [
+        "Unnamed",
+        "Left-Car"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 6,
+        "recovery_yaw": 0,
+        "jump": true
+    },
+    "viewangles": [
+        9.904746055603,
+        12.430757522583
+    ],
+    "position": [
+        -701.54602050781,
+        -729.65142822266,
+        149.03125
+    ],
+    "name": [
+        "Unnamed",
+        "Car"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 21,
+        "jump": true
+    },
+    "viewangles": [
+        1.2867566347122,
+        -4.2350263595581
+    ],
+    "position": [
+        -1064.0219726563,
+        -187.25994873047,
+        -31.96875
+    ],
+    "name": [
+        "Unnamed",
+        "Car"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 45,
+        "jump": true,
+        "delay": 4
+    },
+    "viewangles": [
+        -6.4338135719299,
+        -13.567902565002
+    ],
+    "position": [
+        -1059.4739990234,
+        -88.094802856445,
+        -31.96875
+    ],
+    "name": [
+        "Unnamed",
+        "Truck"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 30,
+        "jump": true
+    },
+    "viewangles": [
+        1.8529353141785,
+        -3.5312423706055
+    ],
+    "position": [
+        -1217.8952636719,
+        -258.60833740234,
+        -31.968820571899
+    ],
+    "name": [
+        "Unnamed",
+        "Car"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 12,
+        "recovery_yaw": 0,
+        "jump": true
+    },
+    "viewangles": [
+        9.0784044265747,
+        -3.7727999687195
+    ],
+    "position": [
+        -703.34466552734,
+        -538.83380126953,
+        149.03125
+    ],
+    "name": [
+        "Unnamed",
+        "Truck"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 23
+    },
+    "viewangles": [
+        -11.68837928772,
+        2.9570970535278
+    ],
+    "position": [
+        -428.25869750977,
+        -605.79162597656,
+        188.03125
+    ],
+    "name": [
+        "Unnamed",
+        "FBI Car"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 23,
+        "recovery_yaw": 0,
+        "jump": true
+    },
+    "position": [
+        -428.28768920898,
+        -605.79479980469,
+        188.03125
+    ],
+    "description": "Rush to Plant",
+    "viewangles": [
+        11.010039329529,
+        2.2879846096039
+    ],
+    "name": [
+        "Unnamed",
+        "FBI Car"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 7,
+        "jump": true
+    },
+    "viewangles": [
+        -3.3377394676208,
+        178.7619934082
+    ],
+    "position": [
+        1674.5739746094,
+        -806.08331298828,
+        -30.515277862549
+    ],
+    "name": [
+        "Unnamed",
+        "Roof [Tablo]"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 40,
+        "jump": true
+    },
+    "viewangles": [
+        -3.9553713798523,
+        164.76174926758
+    ],
+    "position": [
+        1674.5595703125,
+        -806.11065673828,
+        -30.501811981201
+    ],
+    "name": [
+        "Unnamed",
+        "Roof [Vent]"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 16
+    },
+    "position": [
+        1056.1982421875,
+        -435.6936340332,
+        -27.03483581543
+    ],
+    "description": "Break Glass",
+    "viewangles": [
+        -9.9260034561157,
+        173.95625305176
+    ],
+    "name": [
+        "Unnamed",
+        "Plant"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 22
+    },
+    "position": [
+        1056.2064208984,
+        -435.69403076172,
+        -27.03483581543
+    ],
+    "description": "Break Glass",
+    "viewangles": [
+        -9.7715930938721,
+        173.95625305176
+    ],
+    "name": [
+        "Unnamed",
+        "Plant"
+    ],
+    "weapon": "weapon_hegrenade"
+},
+{
+    "grenade": {
+        "run": 2,
+        "run_speed": true
+    },
+    "viewangles": [
+        -35.095104217529,
+        143.41746520996
+    ],
+    "position": [
+        1591.3341064453,
+        -507.84289550781,
+        -29.25484085083
+    ],
+    "name": [
+        "Unnamed",
+        "Car "
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "strength": 0.5,
+        "run": 1,
+        "run_speed": true
+    },
+    "viewangles": [
+        -46.778861999512,
+        -163.10540771484
+    ],
+    "position": [
+        1591.3601074219,
+        -507.84796142578,
+        -29.255355834961
+    ],
+    "name": [
+        "Unnamed",
+        "Truck"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 9,
+        "recovery_yaw": 180,
+        "run_yaw": 180
+    },
+    "viewangles": [
+        -26.912897109985,
+        22.084880828857
+    ],
+    "position": [
+        945.43084716797,
+        -691.53253173828,
+        -27.850536346436
+    ],
+    "name": [
+        "Unnamed",
+        "FBI Car"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "strength": 0.5,
+        "recovery_yaw": 0,
+        "jump": true,
+        "delay": 8
+    },
+    "viewangles": [
+        -5.8615350723267,
+        18.173080444336
+    ],
+    "position": [
+        939.884765625,
+        -703.86944580078,
+        -27.921957015991
+    ],
+    "name": [
+        "Unnamed",
+        "FBI Car"
+    ],
+    "weapon": "weapon_hegrenade"
+},
+{
+    "grenade": {
+        "run": 8,
+        "jump": true
+    },
+    "viewangles": [
+        -14.354182243347,
+        -56.45881652832
+    ],
+    "position": [
+        1003.08984375,
+        -709.09619140625,
+        -27.328121185303
+    ],
+    "name": [
+        "Unnamed",
+        "FBI Car [Left]"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 12,
+        "jump": true
+    },
+    "viewangles": [
+        -10.802719116211,
+        -56.45881652832
+    ],
+    "position": [
+        1003.063293457,
+        -709.05639648438,
+        -27.328121185303
+    ],
+    "name": [
+        "Unnamed",
+        "FBI Car [Left]"
+    ],
+    "weapon": "weapon_hegrenade"
+},
+{
+    "name": [
+        "Unnamed",
+        "Car"
+    ],
+    "viewangles": [
+        -16.670375823975,
+        135.71392822266
+    ],
+    "position": [
+        1571.0086669922,
+        -485.85848999023,
+        -28.907194137573
+    ],
+    "weapon": "weapon_smokegrenade"
+},
+{
+    "name": [
+        "Unnamed",
+        "Trash"
+    ],
+    "viewangles": [
+        3.3001027107239,
+        -64.264854431152
+    ],
+    "position": [
+        1571.0083007813,
+        -485.85104370117,
+        -28.916229248047
+    ],
+    "weapon": "weapon_smokegrenade"
+},
+{
+    "grenade": {
+        "run": 5,
+        "recovery_yaw": 0,
+        "jump": true
+    },
+    "viewangles": [
+        12.307238578796,
+        12.322821617126
+    ],
+    "position": [
+        -14.90651512146,
+        -832.93347167969,
+        239.03125
+    ],
+    "name": [
+        "Unnamed",
+        "FBI Car [Back]"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 2,
+        "recovery_yaw": 0,
+        "jump": true
+    },
+    "viewangles": [
+        10.369234085083,
+        16.214647293091
+    ],
+    "position": [
+        -14.867423057556,
+        -832.9208984375,
+        239.03125
+    ],
+    "name": [
+        "Unnamed",
+        "FBI Car [Left]"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 22,
+        "recovery_yaw": 0,
+        "jump": true,
+        "delay": 15
+    },
+    "viewangles": [
+        3.1527872085571,
+        12.958329200745
+    ],
+    "position": [
+        -83.231315612793,
+        -845.1005859375,
+        239.03125
+    ],
+    "name": [
+        "Unnamed",
+        "FBI Car [Back]"
+    ],
+    "weapon": "weapon_hegrenade"
+},
+{
+    "grenade": {
+        "run": 15,
+        "recovery_yaw": 0,
+        "jump": true,
+        "delay": 15
+    },
+    "viewangles": [
+        3.4615883827209,
+        17.384782791138
+    ],
+    "position": [
+        -51.113525390625,
+        -847.85565185547,
+        239.03125
+    ],
+    "name": [
+        "Unnamed",
+        "FBI Car [Left]"
+    ],
+    "weapon": "weapon_hegrenade"
+},
+{
+    "grenade": {
+        "run": 1,
+        "run_speed": true
+    },
+    "viewangles": [
+        -4.169114112854,
+        25.043462753296
+    ],
+    "position": [
+        -228.90658569336,
+        -908.00396728516,
+        188.03125
+    ],
+    "name": [
+        "Unnamed",
+        "Car"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 11,
+        "run_speed": true
+    },
+    "viewangles": [
+        0.66909384727478,
+        22.984645843506
+    ],
+    "position": [
+        -227.83233642578,
+        -901.15130615234,
+        188.03125
+    ],
+    "name": [
+        "Unnamed",
+        "Car"
+    ],
+    "weapon": "weapon_hegrenade"
+},
+{
+    "grenade": {
+        "run": 28,
+        "recovery_yaw": -163,
+        "jump": true
+    },
+    "viewangles": [
+        10.734949111938,
+        -12.14594745636
+    ],
+    "position": [
+        -199.0166015625,
+        -692.83831787109,
+        188.03125
+    ],
+    "name": [
+        "Unnamed",
+        "Trash"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "name": [
+        "Unnamed",
+        "Truck"
+    ],
+    "viewangles": [
+        -9.0990476608276,
+        -5.569411277771
+    ],
+    "position": [
+        -57.617004394531,
+        -574.13879394531,
+        188.03125
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "strength": 0.5,
+        "run": 10,
+        "run_speed": true
+    },
+    "viewangles": [
+        -25.363771438599,
+        11.673180580139
+    ],
+    "position": [
+        -57.610046386719,
+        -574.08770751953,
+        188.03125
+    ],
+    "name": [
+        "Unnamed",
+        "Car"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 7
+    },
+    "viewangles": [
+        -9.8712186813354,
+        26.050525665283
+    ],
+    "position": [
+        -598.46435546875,
+        -684.89709472656,
+        188.03125
+    ],
+    "name": [
+        "Unnamed",
+        "Left-Car"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "name": [
+        "Unnamed",
+        "Car"
+    ],
+    "viewangles": [
+        1.4007769823074,
+        12.771097183228
+    ],
+    "position": [
+        -111.51847839355,
+        -631.42303466797,
+        210.03125
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 1
+    },
+    "viewangles": [
+        -11.724186897278,
+        2.1681666374207
+    ],
+    "position": [
+        -101.97367095947,
+        -572.88714599609,
+        188.03125
+    ],
+    "name": [
+        "Unnamed",
+        "FBI Car"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 10
+    },
+    "viewangles": [
+        -1.0698447227478,
+        7.4862451553345
+    ],
+    "position": [
+        -534.52087402344,
+        -562.25659179688,
+        188.03125
+    ],
+    "name": [
+        "Unnamed",
+        "Car"
+    ],
+    "weapon": "weapon_hegrenade"
+},
+{
+    "grenade": {
+        "run": 3
+    },
+    "viewangles": [
+        -3.4374723434448,
+        7.5205678939819
+    ],
+    "position": [
+        -534.57824707031,
+        -562.26000976563,
+        188.03125
+    ],
+    "name": [
+        "Unnamed",
+        "Car"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 1
+    },
+    "viewangles": [
+        -6.6801075935364,
+        -5.1411514282227
+    ],
+    "position": [
+        -358.62329101563,
+        -546.7099609375,
+        188.03125
+    ],
+    "name": [
+        "Unnamed",
+        "Truck"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 8
+    },
+    "viewangles": [
+        -3.4889440536499,
+        -4.7125692367554
+    ],
+    "position": [
+        -358.65072631836,
+        -546.72637939453,
+        188.03125
+    ],
+    "name": [
+        "Unnamed",
+        "Truck"
+    ],
+    "weapon": "weapon_hegrenade"
+},
+{
+    "grenade": {
+        "run": 5,
+        "recovery_yaw": -90
+    },
+    "viewangles": [
+        -12.496353149414,
+        16.355381011963
+    ],
+    "position": [
+        -701.95593261719,
+        -367.47933959961,
+        149.03125
+    ],
+    "name": [
+        "Unnamed",
+        "Left-Car"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 2
+    },
+    "viewangles": [
+        -15.018482208252,
+        -15.659258842468
+    ],
+    "position": [
+        -469.96438598633,
+        -237.6577911377,
+        143.03125
+    ],
+    "name": [
+        "Unnamed",
+        "Truck"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 1,
+        "run_speed": true
+    },
+    "viewangles": [
+        -13.783225059509,
+        -5.5196080207825
+    ],
+    "position": [
+        -500.01702880859,
+        -246.47940063477,
+        143.26219177246
+    ],
+    "name": [
+        "Unnamed",
+        "Car"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 27
+    },
+    "viewangles": [
+        -18.2096824646,
+        -5.0048885345459
+    ],
+    "position": [
+        -551.96533203125,
+        -232.29061889648,
+        148.02247619629
+    ],
+    "name": [
+        "Unnamed",
+        "FBI Car [Left]"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 7
+    },
+    "viewangles": [
+        -3.4377675056458,
+        -4.1466355323792
+    ],
+    "position": [
+        -489.78567504883,
+        -248.16424560547,
+        143.03125
+    ],
+    "name": [
+        "Unnamed",
+        "Car"
+    ],
+    "weapon": "weapon_hegrenade"
+},
+{
+    "grenade": {
+        "run": 10,
+        "run_speed": true
+    },
+    "viewangles": [
+        -11.827431678772,
+        15.498303413391
+    ],
+    "position": [
+        -482.48910522461,
+        -283.15856933594,
+        143.03125
+    ],
+    "name": [
+        "Unnamed",
+        "Left-Car"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 16
+    },
+    "viewangles": [
+        -3.3348326683044,
+        14.623320579529
+    ],
+    "position": [
+        -515.67755126953,
+        -292.18786621094,
+        144.13481140137
+    ],
+    "name": [
+        "Unnamed",
+        "Left-Car"
+    ],
+    "weapon": "weapon_hegrenade"
+},
+{
+    "name": [
+        "Unnamed",
+        "FBI Car"
+    ],
+    "viewangles": [
+        -10.437757492065,
+        -10.374536514282
+    ],
+    "position": [
+        785.71374511719,
+        -350.5910949707,
+        -28.883340835571
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "name": [
+        "Unnamed",
+        "FBI Car"
+    ],
+    "viewangles": [
+        -9.0480499267578,
+        -11.301010131836
+    ],
+    "position": [
+        785.76379394531,
+        -350.6003112793,
+        -28.884098052979
+    ],
+    "weapon": "weapon_hegrenade"
+},
+{
+    "grenade": {
+        "run": 5
+    },
+    "viewangles": [
+        -16.511344909668,
+        -43.436511993408
+    ],
+    "position": [
+        325.00698852539,
+        694.41296386719,
+        58.640274047852
+    ],
+    "name": [
+        "Unnamed",
+        "FBI Car"
+    ],
+    "weapon": "weapon_molotov"
+},
+{
+    "grenade": {
+        "run": 12,
+        "jump": true
+    },
+    "viewangles": [
+        2.1723899841309,
+        58.114143371582
+    ],
+    "position": [
+        463.05645751953,
+        -1863.7524414063,
+        -28.175426483154
+    ],
+    "name": [
+        "Unnamed",
+        "FBI Car"
+    ],
+    "weapon": "weapon_molotov"
+}
+]
