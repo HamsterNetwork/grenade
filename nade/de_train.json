@@ -2910,5 +2910,27 @@
           "run": 15,
           "jump": true
         }
-      }
+      },
+      {
+        "grenade": {
+            "run": 4,
+            "recovery_jump": true,
+            "recovery_yaw": -90,
+            "jump": true
+        },
+        "viewangles": [
+            -7.8103547096252,
+            175.14987182617
+        ],
+        "position": [
+            505.75088500977,
+            -662.20721435547,
+            -219.90640258789
+        ],
+        "name": [
+            "Unnamed",
+            "Drop Room [unsafe]"
+        ],
+        "weapon": "weapon_molotov"
+    }
     ]
